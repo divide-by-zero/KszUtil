@@ -1,0 +1,17 @@
+{
+  "name": "com.ksz.util",
+  "version": "1.0.0",
+  "displayName": "KszUtil",
+  "description": "Personal utility library for Unity projects",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.cinemachine": "2.10.5",
+    "com.unity.inputsystem": "1.18.0",
+    "com.unity.timeline": "1.8.10",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.render-pipelines.universal": "17.3.0"
+  },
+  "author": {
+    "name": "ksz"
+  }
+}

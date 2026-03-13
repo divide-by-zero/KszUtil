@@ -1,0 +1,19 @@
+{
+  "name": "KszEditor",
+  "rootNamespace": "",
+  "references": [
+    "GUID:343deaaf83e0cee4ca978e7df0b80d21",
+    "GUID:0d13e20e4273347598a7b07a9eec151e"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
